@@ -1,4 +1,3 @@
-
 # TOML logos
 
 ## Logos and marks
@@ -16,7 +15,6 @@ The fallback versions were designed for when the background cannot be controlled
 
 The icons are indented to be used as favicon.
 
-
 ![toml-icon-list](./show/icon-list.png)
 
 ## Tagline
@@ -26,6 +24,9 @@ The tagline "config files for human" is intended to be use in conjuction with th
 ![toml-logos-tagline](./show/logos-tagline.png)
 
 
+# Colors
+
+In addition to `#FFFFFF` (white) and `#000000` (black), the logos, marks and icons use the color `#DE4141`.
 
 # License
 
