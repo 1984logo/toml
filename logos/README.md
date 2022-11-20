@@ -19,7 +19,7 @@ The icons are indented to be used as favicon.
 
 ## Tagline
 
-The tagline "config files for human" is intended to be use in conjuction with the logo on headers, footers, or any other place where the logo can be displayed in large format (to preserve the lisibility of the tagline).
+The tagline "config files for humans" is intended to be use in conjuction with the logo on headers, footers, or any other place where the logo can be displayed in large format (to preserve the lisibility of the tagline).
 
 ![toml-logos-tagline](./show/logos-tagline.png)
 
